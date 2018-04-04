@@ -1,0 +1,41 @@
+.margin-lg {
+  margin-left: 40px;
+}
+.ingredients {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.detailsingredient {
+  flex-grow: 1;
+}
+
+.contador {
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.buy {
+  margin: auto;
+
+  width: 70%;
+  background-color: green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+
+}
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.account {
+  margin-right: 20px;
+}
